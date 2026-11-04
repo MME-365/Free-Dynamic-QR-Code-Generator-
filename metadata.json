@@ -1,0 +1,8 @@
+{
+  "name": "Dynamic QR Code Generator",
+  "description": "A modern, dynamic QR code generator that allows users to customize colors, add logos, and download high-quality QR codes in SVG or PNG format, with built-in downloadable source code PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
